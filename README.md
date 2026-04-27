@@ -11,7 +11,7 @@ O projeto utiliza como base o template **EasyFolio** (BootstrapMade), adaptado p
 * **Apoio:** O processo de personalização e correção de bugs contou com o auxílio de Inteligência Artificial para fins didáticos e otimização de workflow.
 
 ## 🔗 Link de Acesso
-Confira o portfólio online: [p-dorigatti.github.io/seu-repositorio](https://p-dorigatti.github.io/seu-repositorio)
+Confira o portfólio online: [p-dorigatti.github.io/seu-repositorio](https://p-dorigatti.github.io/)
 
 ## 📝 Notas de Desenvolvimento
 Este é um repositório com fins puramente educativos. As alterações realizadas no template original incluem:
